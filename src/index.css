@@ -1,1 +1,12 @@
 @import "tailwindcss";
+
+::-webkit-scrollbar{
+    display:none;
+}
+
+body{
+    overflow-x: hidden;
+    background: #000;
+    color: azure;
+    font-family: Helvetica, sans-serif;
+}
